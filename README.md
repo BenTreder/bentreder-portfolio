@@ -1,54 +1,231 @@
 # Ben Treder Portfolio
 
-This repository contains professional case studies, project summaries, screenshots, and technical notes from my web design, SEO, cybersecurity, and tech support work.
+A professional portfolio repository for web design, SEO, cybersecurity, tech support, and small business website projects built by Ben Treder.
+
+This repository highlights real-world project experience, technical skills, website strategy, and business-focused problem solving.
+
+---
+
+## What This Portfolio Shows
+
+- Website design
+- Website redesigns
+- Local SEO
+- Technical SEO
+- Website speed optimization
+- Cybersecurity basics
+- Tech support workflows
+- Small business systems
+- Lead generation websites
+- Brand and product websites
+- Automation and tooling
+
+---
 
 ## Main Website
 
 https://bentreder.com
 
-## Services Represented
+---
 
-- Web design
-- Website redesigns
-- Local SEO
-- WordPress help
-- Website speed optimization
-- Cybersecurity basics
-- Tech support
-- Business automation
-- Lead generation websites
-
-## Featured Case Studies
+## Featured Projects
 
 ### BenTreder.com
-Professional service website for web design, cybersecurity, computer repair, SEO, and small business tech support.
+
+Professional website for web design, cybersecurity, computer repair, SEO, website speed optimization, and small business tech support.
+
+Focus areas:
+
+- Service-based web design
+- Local SEO
+- Conversion-focused pages
+- Technical trust building
+- Website performance
+- Professional branding
+
+---
 
 ### QuickTapID.com
-NFC digital business card platform with onboarding flow, product pages, industry pages, and conversion-focused landing pages.
+
+Digital business card and NFC profile platform built for small business owners, creators, barbers, realtors, service providers, and entrepreneurs.
+
+Focus areas:
+
+- Product landing pages
+- Onboarding flow
+- Industry-specific SEO pages
+- Conversion-focused design
+- Small business tech product positioning
+
+---
 
 ### IPLookupHub.com
-Web-based network lookup toolkit with IP, DNS, SSL, ASN, SPF, DKIM, DMARC, and HTTP header tools.
+
+Network intelligence and lookup tool website with tools for IP lookup, DNS lookup, SSL checks, HTTP headers, ASN lookup, and related web diagnostics.
+
+Focus areas:
+
+- Technical tools
+- Utility-based SEO
+- Fast tool pages
+- Structured content
+- Web diagnostics
+
+---
 
 ### FreeQRHub.com
-QR code generator and educational content hub built for SEO, AdSense readiness, and practical business use.
+
+QR code generator and educational content website built around free QR tools, guides, and business use cases.
+
+Focus areas:
+
+- Tool-based website structure
+- SEO content
+- User-friendly utility pages
+- Blog and guide content
+- Ad-friendly website planning
+
+---
 
 ### CheckMyError.com
-Error lookup and troubleshooting platform built to help users understand and fix common technical problems.
+
+Troubleshooting and error lookup website designed to help users understand common software, website, and system errors.
+
+Focus areas:
+
+- Error explanation pages
+- Search-friendly content
+- User education
+- Troubleshooting structure
+- Helpful technical writing
+
+---
 
 ### ExplainTechSimple.com
-Beginner-friendly technology education website focused on simple explanations and helpful guides.
+
+Tech education website focused on explaining complex technology topics in a simple and beginner-friendly way.
+
+Focus areas:
+
+- Educational content
+- Simple explanations
+- Clean layout
+- Search-focused pages
+- Helpful beginner resources
+
+---
 
 ### AVFoodTrucks.com
-Food truck directory and event lead generation system for Sacramento-area vendors and customers.
+
+Local food truck directory and lead generation website for Sacramento-area food trucks, event organizers, and customers.
+
+Focus areas:
+
+- Local directory structure
+- Vendor profiles
+- Lead capture
+- Local SEO
+- Dynamic website architecture
+
+---
 
 ### BigWinJerky.com
-Small business product website with local SEO pages, flavor pages, ordering CTAs, and brand positioning.
 
-## Folder Structure
+Small-batch beef jerky brand website with product positioning, local SEO, flavor pages, and direct ordering calls to action.
 
-```txt
-case-studies/
-screenshots/
-seo-notes/
-performance-notes/
-security-notes/
+Focus areas:
+
+- Product website design
+- Local SEO
+- Brand storytelling
+- Flavor pages
+- Conversion-focused order paths
+
+---
+
+## Skills Represented
+
+### Web Design
+
+- Responsive layouts
+- Homepage design
+- Service pages
+- Landing pages
+- Contact pages
+- Local business websites
+- Product websites
+- Directory websites
+
+### SEO
+
+- Page titles
+- Meta descriptions
+- Canonical tags
+- Schema markup
+- Internal linking
+- City/service pages
+- Sitemap planning
+- Blog/content structure
+- Local search strategy
+
+### Cybersecurity
+
+- Website hardening
+- Security headers
+- Cloudflare protection
+- Login protection
+- Backup planning
+- Malware cleanup basics
+- Small business security education
+
+### Tech Support
+
+- Computer troubleshooting
+- Website troubleshooting
+- Network troubleshooting
+- Email support
+- Printer support
+- Backup workflows
+- Small business technical support
+
+### Automation
+
+- SEO audit scripts
+- Sitemap builders
+- Internal link checkers
+- Metadata checkers
+- Reporting tools
+- Website maintenance scripts
+
+---
+
+## Related Repositories
+
+- `seo-automation-scripts`
+- `website-speed-toolkit`
+- `small-business-security-toolkit`
+- `tech-support-toolkit`
+- `client-website-starter-kit`
+
+---
+
+## Purpose
+
+This portfolio shows practical, real-world experience building and improving websites for business use.
+
+It is designed to support professional work in:
+
+- Web design
+- SEO
+- Cybersecurity
+- Tech support
+- Small business consulting
+- Website optimization
+
+---
+
+## About
+
+Built by Ben Treder
+
+Website: https://bentreder.com
